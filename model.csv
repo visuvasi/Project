@@ -1,6 +1,6 @@
-MLModels
-Select Model
-Linear Regression
-Logistic Regression
-Random Forest
-Naive Bayes
+MLModels,Duration
+Select Model,All
+Linear Regression,1 day
+Logistic Regression,7 days
+Random Forest,15 days
+Naive Bayes,30 days
