@@ -1,6 +1,6 @@
-MLModels,Duration
-Select Model,All
-Linear Regression,1 day
-Logistic Regression,7 days
-Random Forest,15 days
-Naive Bayes,30 days
+User,MLModels,Duration
+Onkar,Select Model,All
+Vinod,Linear Regression,1 day
+Divyansh,Logistic Regression,7 days
+Vaibhav,Random Forest,15 days
+Govind,Naive Bayes,30 days
