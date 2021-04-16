@@ -1,5 +1,5 @@
 UserName,MLModels,Duration
-All,Select Model,All
+All,Select Model,Select Duration
 Vinod,Linear Regression,1 day
 Divyansh,Logistic Regression,7 days
 Vaibhav,Random Forest,15 days
