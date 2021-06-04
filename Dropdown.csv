@@ -1,4 +1,4 @@
-UserName,ML Model,Duration,Results
+UserName,MLModels,Duration,Results
 Select User,Select Model,Select Duration,Select Result
 Vivek,Linear Regression,1 day,Linear Regression - 1 day
 Vaibhav,Linear Regression,1 day,Linear Regression - 1 day
